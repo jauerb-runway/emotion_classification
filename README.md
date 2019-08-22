@@ -7,4 +7,4 @@ fer2013 emotion classification test accuracy: 66%.
 
 For more information please consult the [publication](https://github.com/oarriaga/face_classification/blob/master/report.pdf)
 
-![alt tag](demo_files/combined_screenshot.png)
+![Demo Image](demo_files/combined_screenshot.png)
